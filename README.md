@@ -6,6 +6,7 @@ J'ai des compétences en **UI/UX design** je maitrise (FIGMA, Adobe Illustrator,
 
 Mes précédentes expériences professionnelles dans la gestion de projet (8 ans) m’ont également doté de compétences en matière de prises de décision et d’un goût certain pour le travail en équipe.
 
+Visitez mon [portfolio](https://gabriellegenty.github.io/portfolio/) !
 <!---
 GabrielleGenty/GabrielleGenty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
